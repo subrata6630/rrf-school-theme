@@ -1,0 +1,137 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+.special-content-carousel-item {
+    min-height: 300px !important;
+}
+.carousel-image-single {
+    min-height: 140px !important;
+}
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.logo, .header-right {
+  text-align: center;
+} 
+.mainmenu {
+  font-size: 12px;min-height: 48px
+}    
+.mainmenu ul li:hover ul {
+  top: 47px;
+} 
+.single-slide-wid {
+  min-height: inherit;
+  margin: 0;
+  margin-bottom: 30px;
+}
+.maincontent-text {
+  margin-bottom: 30px;
+}
+.footer-logo {
+  margin-top: 0;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.footer-link-wid {
+  margin-bottom: 30px;
+}
+.special-content-carousel-item {
+    min-height: 300px !important;
+}
+.carousel-image-single {
+    min-height: 200px !important;
+} 
+.single-feature-item {
+  margin-bottom: 30px;
+}    
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+.logo, .header-right {
+  text-align: center;
+} 
+.mainmenu {
+  display: none
+} 
+.single-slide-wid {
+  min-height: inherit;
+  margin: 0;
+  margin-bottom: 30px;
+}
+.maincontent-text {
+  margin-bottom: 30px;
+}
+.footer-logo {
+  margin-top: 0;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.footer-link-wid {
+  margin-bottom: 30px;
+} 
+.logo h1 {
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+.header, .slide-below-widgets, .maincontent, .single-slide-wid, .footer-top, .colored-gravity-form {
+  padding: 15px;
+}
+.single-slide-wid li span {
+  display: block;
+  float: none;
+}
+.teacher-list-photo, .committee-list-photo, .committee-list-enddate {
+  display: none;
+}
+.teacher-list-date, .routine-list-date {
+  width: 90px;
+}
+.teacher-list-name, .committee-list-name {
+  width: 120px;
+}  
+.notices-list span {
+  display: block;
+  padding: 0;
+  margin-bottom: 10px;
+}    
+.routine-download-btn {
+  padding: 5px;
+}    
+.routine-list-download {
+  width: 70px;
+}
+.routine-list-name {
+  width: 100px;
+} 
+.slicknav_menu {
+  background: #1dd2af none repeat scroll 0 0;
+  font-size: 15px;
+  padding: 0 5px;display: block
+}
+.slicknav_nav .slicknav_row:hover, .slicknav_nav a:hover {
+  background: #333;
+  border-radius: 0;
+  color: #fff;
+} 
+.special-content-carousel-item {
+    min-height: 250px !important;
+}
+.carousel-image-single {
+    min-height: 200px !important;
+} 
+.single-feature-item {
+  margin-bottom: 30px;
+}  
+#map-canvas {
+  max-height: 200px;
+}    
+    
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}

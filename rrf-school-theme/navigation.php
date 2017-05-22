@@ -1,0 +1,2 @@
+<div class="nav-previous"><?php next_posts_link( __( '<span class="meta-nav">&larr;</span> আগের পাতা', 'rrf-education-theme' ) ); ?></div>
+<div class="nav-next"><?php previous_posts_link( __( 'পরের পাতা <span class="meta-nav">&rarr;</span>', 'rrf-education-theme' ) ); ?></div>
