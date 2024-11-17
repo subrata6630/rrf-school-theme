@@ -1,6 +1,9 @@
 /* 
 Theme Name: RRF School Theme
+Author: Subrata Debnath
+Author URL:https://subrata6630.github.io
 */
+
 .alignleft {
     float: left;
     margin-right: 15px;
@@ -113,7 +116,7 @@ Main Menu CSS
 }
 .mainmenu li:hover > a { color: #fff }
 .mainmenu li.current_page_item > a,
-.mainmenu li.current_page_parent > a { color: #fff }
+.mainmenu li.current_page_parent > a,
 .mainmenu ul ul li {
     width: auto;
     margin: 0;
